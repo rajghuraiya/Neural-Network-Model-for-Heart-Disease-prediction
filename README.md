@@ -1,1 +1,0 @@
-# Neural-Network-Model-for-Heart-Disease-prediction
